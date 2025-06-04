@@ -19,14 +19,15 @@
 
 ### 🔬 Research（リサーチ）
 - **asin-extraction**: ASIN抽出機能
-  - ✅ **完成済み**: 変動率1.1%達成版
+  - ✅ **完成済み**: 変動率1.1%達成版ト
 - **product-scaling**: 出品数スケール機能
+- **sorting-tools**: View/Sold順ソー
 - **seller-tracking**: セラー追っかけ機能
 
 ### 📝 List-Editing（リスト編集）
 - **image-editing**: 商品画像編集
 - **description-optimization**: 商品説明最適化
-- **sorting-tools**: View/Sold順ソート
+
 
 ### 📦 Inventory-Management（在庫管理）
 - **stock-monitoring**: 在庫自動チェック
